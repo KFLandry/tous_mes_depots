@@ -1,4 +1,7 @@
 
-
+Liens vers tous mes depots:
 https://github.com/KFLandry?tab=repositories
-Liens vers mon portfolip hebergé sur github pages:
+
+Liens vers mon portfolio hebergé sur github pages:
+https://kflandry.github.io/trial_portfolio/
+
