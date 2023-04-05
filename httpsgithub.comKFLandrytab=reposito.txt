@@ -6,4 +6,4 @@ Lien vers mon portfolio hebergé sur github pages:
 https://kflandry.github.io/trial_portfolio/
 
 Lien d'un exemple de page d'accueil 
-
+https://kflandry.github.io/projet_perso/
